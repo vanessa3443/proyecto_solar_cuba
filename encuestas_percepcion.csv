@@ -1,0 +1,26 @@
+id,fecha,municipio,origen,sabe_precio,tiempo_para_comprar,confianza_revolico,obstaculo_principal,comentario,transcripcion,verificado
+E01,2026-10-18,Vedado,cuestionario,No lo sabia,Entre 3 y 5 anos,Depende del precio y del vendedor,El precio es imposible,,,no
+E02,2026-10-18,Vedado,cuestionario,"Si, se el precio aproximado","Entre 1 y 3 anos",No confio en eso,Miedo a que me lo roben,,,no
+E03,2026-10-18,Playa,cuestionario,He oido algo pero no se cifras,Nunca podria comprarlo,Depende del precio y del vendedor,Miedo a que me lo roben,,,no
+E04,2026-10-18,Regla,cuestionario,,,,,, ,no
+E05,2026-10-18,Vedado,cuestionario,No lo sabia,Entre 3 y 5 anos,"Si, lo compraria",Otro: me lo compraria con inversores,,,no
+E06,2026-10-18,,cuestionario,He oido algo pero no se cifras,Nunca podria comprarlo,Depende del precio y del vendedor,No se como se instala o mantiene,,,no
+E07,2026-10-18,Nuevo Vedado,cuestionario,"Si, se el precio aproximado",Menos de 1 ano,Depende del precio y del vendedor,Miedo a que me lo roben,,,no
+E08,2026-10-18,Vedado,cuestionario,He oido algo pero no se cifras,Nunca podria comprarlo,No tengo esos ingresos,El precio es imposible,,,no
+E09,2026-10-18,Nuevo Vedado,cuestionario,No lo sabia,Nunca podria comprarlo,No confio en eso,El precio es imposible,,,no
+E10,2026-10-18,Vedado,cuestionario,He oido algo pero no se cifras,"Entre 1 y 3 anos","Si, lo compraria",El precio es imposible,,,no
+E11,2026-10-18,Cerro,cuestionario,No lo sabia,Mas de 5 anos,"Si, lo compraria",El precio es imposible,,,no
+E12,2026-10-18,Plaza de la Revolucion,cuestionario,No lo sabia,Nunca podria comprarlo,"Si, lo compraria",El precio es imposible,,,no
+E13,2026-10-18,La Lisa,audio,,Nunca podria comprarlo,No tengo esos ingresos,El salario,"no alcanza; el dinero en USD se va en comida y aseo; no cree que los paneles sean solucion para todo el pueblo",transcripciones_calle.txt#E13,no
+E14,2026-10-18,Plaza de la Revolucion,audio,He oido algo pero no se cifras,"Entre 1 y 3 anos",No confio en eso,El salario,"dice mas de un anio; jubilados aun mas dificil",transcripciones_calle.txt#E14,no
+E15,2026-10-18,Plaza de la Revolucion,audio,No lo sabia,"Entre 1 y 3 anos","Si, lo compraria",El precio es imposible,"anio y medio a dos; lo basico extremadamente caro y dificil de conseguir",transcripciones_calle.txt#E15,no
+E16,2026-10-18,Plaza de la Revolucion,audio,He oido algo pero no se cifras,Nunca podria comprarlo,No tengo esos ingresos,El precio es imposible,"jubilada ama de casa; no tengo ni un kilo; problema adquisitivo",transcripciones_calle.txt#E16,no
+E17,2026-10-18,Playa,audio,He oido algo pero no se cifras,Nunca podria comprarlo,No tengo esos ingresos,Miedo a que me lo roben,"74 anos con jubilacion; ademas no sabe donde repararlo ni que hacer con las baterias",transcripciones_calle.txt#E17,no
+E18,2026-10-18,La Habana (vive; es de Pinar del Rio),audio,"Si, se el precio aproximado","Entre 1 y 3 anos","Si, lo compraria",El precio es imposible,"no trabaja actualmente; le parece barato a 100 USD; mayoria jubilados o venden la casa para irse",transcripciones_calle.txt#E18,no
+E19,2026-10-18,Regla,audio,No lo sabia,"Entre 1 y 3 anos","Si, lo compraria",El precio es imposible,"dice 10 meses; compro un panel a 360 USD y hoy lo ve entre 150 y 170 USD",transcripciones_calle.txt#E19,no
+E20,2026-10-18,Plaza de la Revolucion,audio,He oido algo pero no se cifras,,No confio en eso,El dinero,"jubilada; no respondio el tiempo; hay de varios precios; no es para todos los bolsillos",transcripciones_calle.txt#E20,no
+E21,2026-10-18,Nuevo Vedado,audio,No lo sabia,Nunca podria comprarlo,No confio en eso,El precio es imposible,"jubilada; comida muy cara y dinero escaso; es de Granma",transcripciones_calle.txt#E21,no
+E22,2026-10-18,Santiago,audio,No lo sabia,Nunca podria comprarlo,,El dinero,"no tiene salario; senala el sistema monetario y la demanda",transcripciones_calle.txt#E22,no
+E23,2026-10-18,Plaza de la Revolucion,audio,No lo sabia,"Entre 3 y 5 anos","Si, lo compraria",Miedo a que me lo roben,"no trabaja; dice unos 3 anos; todo caro y teme que se roben los paneles del techo",transcripciones_calle.txt#E23,no
+E24,2026-10-18,Cotorro,audio,No lo sabia,,,"El precio es imposible","28 anos; estima un sistema en unos 6000 USD; no quedo claro su respuesta sobre el tiempo (transcripcion poco clara); salarios precarios y precios altos",transcripciones_calle.txt#E24,no
+E25,2026-10-18,San Miguel del Padron,audio,He oido algo pero no se cifras,Nunca podria comprarlo,,El dinero,"50 anos; estima que cuesta una millonada; dice que jamas en la vida tendra un panel",transcripciones_calle.txt#E25,no

@@ -1,0 +1,15 @@
+anio,fecha_medicion,tipo,potencia_wp,precio_cup,precio_usd,vendedor,producto,enlace,fuente,verificado,nota
+2021,finales 2021,sistema_sin_bateria,1000,55000,,Copextel,Sistema fotovoltaico 1 kW sin baterias,,auditoria del estudiante,no,incluye equipo basico pero no baterias
+2026,hasta febrero 2026,modulo,800,75200,,UNE,Modulo fotovoltaico 800 W para trabajadores priorizados,,auditoria del estudiante,no,venta restringida a trabajadores priorizados
+2026,marzo 2026,sistema_completo,5000,2530000,,Correos de Cuba (Sancti Spiritus),Sistema completo 5 kW,,auditoria del estudiante,no,sistema completo: no comparable con un modulo suelto
+2026,marzo 2026,panel_bifacial,750,,180,Mercado privado,Panel bifacial individual 750 W,,auditoria del estudiante,no,precio en USD; convertir con tipo de cambio
+2026,octubre 2026,panel,550,,180,mercado privado,Panel solar 550 W,,observacion de mercado,no,sin vendedor identificado
+2026,octubre 2026,panel,535,,180,mercado privado,Panel solar 535 W,,observacion de mercado,no,sin vendedor identificado
+2026,octubre 2026,panel,615,,260,mercado privado,Panel solar 615 W,,observacion de mercado,no,sin vendedor identificado
+2026,octubre 2026,panel_bifacial,620,,145,mercado privado,Monocristalino bifacial 620 W,,observacion de mercado,no,sin vendedor identificado
+2026,octubre 2026,panel,625,,158,mercado privado,Panel solar 625 W,,observacion de mercado,no,sin vendedor identificado
+2026,octubre 2026,panel,225,,100,mercado privado,Panel solar 225 W,,observacion de mercado,no,panel pequeno; encarece el precio por vatio
+2026,octubre 2026,panel,500,,190,mercado privado,Panel solar 500 W,,observacion de mercado,no,sin vendedor identificado
+2026,octubre 2026,panel,580,,200,mercado privado,Panel solar 580 W,,observacion de mercado,no,sin vendedor identificado
+2026,octubre 2026,panel,600,,135,mercado privado,Panel solar 600 W,,observacion de mercado,no,sin vendedor identificado
+2026,octubre 2026,panel,,,150,mercado privado,Panel solar (potencia no informada),,observacion de mercado,no,falta potencia: no sirve para precio por vatio
