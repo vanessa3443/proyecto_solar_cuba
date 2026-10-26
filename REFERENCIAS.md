@@ -30,7 +30,7 @@ de fuente (primaria/secundaria), qué aporta**.
    intermediario.*
 
 6. **Análisis del IPC y del mercado de consumo cubano, 2015–2022** —
-   AUTOR: __________ / TÍTULO: __________ / PUBLICACIÓN: __________ / FECHA: __________.
+   AUTOR:BETSY _Anaya CRUZ_________ / TÍTULO: ANALISIS DEL IPC 2015-2022__________ / PUBLICACIÓN: CENTRO DE ESTUDIO DE LA ECONOMIA CUBANA__________ / FECHA: _2023_________.
    Aporta (citas textuales usadas en las conclusiones):
    - 2022: **caída drástica del poder adquisitivo del salario medio** de los cubanos.
    - El aumento del consumo en 2021–2022 respondió al **alza de precios, no de cantidades**.
@@ -39,7 +39,8 @@ de fuente (primaria/secundaria), qué aporta**.
      para el bolsillo promedio.
    *Pendiente: completar la cita; sin autor y fecha no se puede usar en la entrega.*
 
-7. **La Joven Cuba** — *Inflación: una nueva aceleración* (FECHA: ________).
+7. **La Joven Cuba** — *Inflación: una nueva aceleración* (FECHA: _28 de agosto del 2026_______).Autor:Ricardo Gonzales Avila
+URL: https://jovencuba.com/inflacion-nueva-aceleracion/ 
    Aporta (`data/raw/inflacion_cuba.csv` y `tipo_cambio_observaciones.csv`):
    - Inflación anual: 2020 18,5 % | 2022 39,1 % | 2025 14,1 % (2021, 2023, 2024 pendientes).
    - 2026: IPC +15,1 % entre dic-2025 y jul-2026; julio = **581,56 puntos**.
@@ -58,12 +59,11 @@ de fuente (primaria/secundaria), qué aporta**.
    - Pavel Vidal: la **inflación real de 2025 "rondaría el 70 %"** si se incluye el
      mercado informal (el IPC oficial solo mide el mercado formal).
    - PIB: −1,1 % en 2024; caída acumulada de 11 % en cinco años.
-   *Pendiente: confirmar el año de publicación para citarlo correctamente.*
+   Año de publicacion:2026.*
 
 ## Cómo citar en el informe
 
-```
-Apellido, Nombre (fecha). Título. Publicación. URL.
+`nombre:agencia EFE (fecha:8 de enero del 2026). Título:cuba concluye 2025 con una inflacion interanual de 14,07% en el mercado formal. Publicación:SWI swissinfo.ch. URL:https://www.swissinfo.ch/spa/cuba-concluye-2025-con-una-inflaci%C3%B3n-interanual-del-14%2C07-%25-en-el-mercado-formal/90751871 ..
 ```
 
 Regla del proyecto: **sin fuente completa, el dato no entra en la conclusión.**
