@@ -142,3 +142,5 @@ métodos dicen lo mismo desde ángulos distintos.**
 5. **Dato 2:** el oficial es 65 % más barato por vatio, pero solo para priorizados.
 6. **Dato 3:** 44 % dice "nunca podría"; 68 % culpa al dinero.
 7. **Cierre:** la energía solar en Cuba es un problema de precios e ingresos, no de ciencia.
+
+LA inflacion dic/dic de 2026 se actualizara cuando el onei publique los datos oficiales  ...
